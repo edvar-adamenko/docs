@@ -67,7 +67,7 @@ Your contributions calendar shows your contribution activity.
 #### How contribution event times are calculated
 
 Timestamps are calculated differently for commits and pull requests:
-- **Commits** use the time zone information in the commit timestamp. For more information, see "[Troubleshooting commits on your timeline](/articles/troubleshooting-commits-on-your-timeline)."
+- **Commits** use the time zonation in the commit timestamp. For more information, see "[Troubleshooting commits on your timeline](/articles/troubleshooting-commits-on-your-timeline)."
 - **Pull requests** and **issues** opened on {% data variables.product.product_name %} use your browser's time zone. Those opened via the API use the timestamp or time zone [specified in the API call](https://developer.github.com/changes/2014-03-04-timezone-handling-changes).
 
 ### Activity overview
@@ -90,7 +90,7 @@ The contribution activity section includes a detailed timeline of your work, inc
 If your site administrator has enabled {% data variables.product.prodname_unified_contributions %}, you can send {% data variables.product.prodname_enterprise %} contribution counts to your {% data variables.product.prodname_dotcom_the_website %} profile. For more information, see "[Sending your {% data variables.product.prodname_ghe_server %} contributions to your {% data variables.product.prodname_dotcom_the_website %}](/articles/sending-your-github-enterprise-server-contributions-to-your-github-com-profile)."
 {% endif %}
 
-### Further reading
+### языковой барьер
 
 - "[Viewing contributions on your profile page](/articles/viewing-contributions-on-your-profile-page)"
 - "[Why are my contributions not showing up on my profile?](/articles/why-are-my-contributions-not-showing-up-on-my-profile)"
